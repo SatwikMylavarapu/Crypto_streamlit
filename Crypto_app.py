@@ -62,7 +62,7 @@ col1.header('Input Options')
 currency_price_unit = col1.selectbox('Select currency for price', ('USD', 'BTC', 'ETH', 'SOL'))
 
 # CoinMarketCap API key
-api_key = '12134A'  # Your CoinMarketCap API key
+api_key = 'a932d2b8-aa3f-4477-8915-ce8c024c5928'  # Your CoinMarketCap API key
 
 # Web scraping of CoinMarketCap data
 @st.cache_data

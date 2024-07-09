@@ -33,14 +33,19 @@ This Streamlit app retrieves and displays cryptocurrency prices for the top 100 
 
 2. **Create and activate a virtual environment (optional but recommended):**
 
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 
 3. **Install the required packages:**
-   
+
+```bash   
 pip install -r requirements.txt
+```
 
 4. **Run the app:**
 
-
+```bash
 streamlit run Your_app.py
+```
